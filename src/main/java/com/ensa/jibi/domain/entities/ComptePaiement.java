@@ -13,5 +13,5 @@ import lombok.NoArgsConstructor;
 public class ComptePaiement {
     @Id
     private Long id;
-    private Double solde;
+    private Double sold;
 }
